@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="brysonbop.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad idle dance0000" x="0" y="0" width="663" height="606"/>
+	<SubTexture name="Dad idle dance0001" x="663" y="0" width="663" height="606"/>
+	<SubTexture name="Dad idle dance0002" x="1326" y="0" width="663" height="606"/>
+	<SubTexture name="Dad idle dance0003" x="1989" y="0" width="663" height="606"/>
+	<SubTexture name="Dad idle dance0004" x="2652" y="0" width="663" height="606"/>
+	<SubTexture name="Dad idle dance0005" x="3315" y="0" width="663" height="606"/>
+	<SubTexture name="Dad idle dance0006" x="0" y="606" width="663" height="606"/>
+	<SubTexture name="Dad idle dance0007" x="663" y="606" width="663" height="606"/>
+	<SubTexture name="Dad idle dance0008" x="1326" y="606" width="663" height="606"/>
+	<SubTexture name="Dad idle dance0009" x="1989" y="606" width="663" height="606"/>
+	<SubTexture name="Dad idle dance0010" x="2652" y="606" width="663" height="606"/>
+	<SubTexture name="Dad idle dance0011" x="3315" y="606" width="663" height="606"/>
+	<SubTexture name="Dad idle dance0012" x="0" y="1212" width="663" height="606"/>
+</TextureAtlas>

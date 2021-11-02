@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="moonsterBop.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zonetan0000" x="0" y="0" width="228" height="371" frameX="-10" frameY="-3" frameWidth="248" frameHeight="377"/>
+	<SubTexture name="zonetan0001" x="0" y="0" width="228" height="371" frameX="-10" frameY="-3" frameWidth="248" frameHeight="377"/>
+	<SubTexture name="zonetan0002" x="228" y="0" width="248" height="360" frameX="0" frameY="-8" frameWidth="248" frameHeight="377"/>
+	<SubTexture name="zonetan0003" x="228" y="0" width="248" height="360" frameX="0" frameY="-8" frameWidth="248" frameHeight="377"/>
+	<SubTexture name="zonetan0004" x="476" y="0" width="230" height="375" frameX="-9" frameY="-1" frameWidth="248" frameHeight="377"/>
+	<SubTexture name="zonetan0005" x="476" y="0" width="230" height="375" frameX="-9" frameY="-1" frameWidth="248" frameHeight="377"/>
+	<SubTexture name="zonetan0006" x="706" y="0" width="206" height="377" frameX="-21" frameY="0" frameWidth="248" frameHeight="377"/>
+	<SubTexture name="zonetan0007" x="706" y="0" width="206" height="377" frameX="-21" frameY="0" frameWidth="248" frameHeight="377"/>
+	<SubTexture name="zonetan0008" x="706" y="0" width="206" height="377" frameX="-21" frameY="0" frameWidth="248" frameHeight="377"/>
+	<SubTexture name="zonetan0009" x="706" y="0" width="206" height="377" frameX="-21" frameY="0" frameWidth="248" frameHeight="377"/>
+	<SubTexture name="zonetan0010" x="706" y="0" width="206" height="377" frameX="-21" frameY="0" frameWidth="248" frameHeight="377"/>
+	<SubTexture name="zonetan0011" x="706" y="0" width="206" height="377" frameX="-21" frameY="0" frameWidth="248" frameHeight="377"/>
+	<SubTexture name="zonetan0012" x="706" y="0" width="206" height="377" frameX="-21" frameY="0" frameWidth="248" frameHeight="377"/>
+	<SubTexture name="zonetan0013" x="706" y="0" width="206" height="377" frameX="-21" frameY="0" frameWidth="248" frameHeight="377"/>
+</TextureAtlas>
